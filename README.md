@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Venkata Sudheer Kumar Kondeti] — aka `@devsocket`
+# 👋 Hi, I'm Venkata Sudheer Kumar Kondeti — aka `@devsocket`
 
 Welcome to my GitHub profile! I'm a **Software Architect & DevOps Enthusiast** focused on building **scalable, cloud-native systems** using:
 
